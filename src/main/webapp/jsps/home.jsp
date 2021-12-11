@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>MPMT Technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
@@ -22,7 +22,7 @@
 		Hyderabad.
 		+91-910065617,
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to MPMT Technologies</a>
 	</span>
 </div>
 <hr>
@@ -30,7 +30,7 @@
 <hr>
 <hr>
 <p align=center>MPMT Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">MPMT Technologies</a> </small></p>
 
 </body>
 </html>
