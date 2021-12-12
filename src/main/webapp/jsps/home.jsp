@@ -19,7 +19,7 @@
 	<span style="font-weight: bold;">
 		MPMT Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Hyderabad.
+		Banglore.
 		+91-910065617,
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to MPMT Technologies</a>
