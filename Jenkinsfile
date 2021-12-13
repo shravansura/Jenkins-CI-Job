@@ -12,12 +12,12 @@ node{
     }
     stage('SonarQubeReport')
     {
-        sh "${mavenHome}/bin/mvn clean sonar:sonar"
+        sh "${mavenHome}/bin/mvn clean sonar:sonar package"
     }
      /*
     stage('UploadArticatintoNexus')
     {
-        sh "${mavenHome}/bin/mvn clean deploy"
+        sh "${mavenHome}/bin/mvn clean deploy "
     }
     */
     stage('DeployAppIntoTomcat')
