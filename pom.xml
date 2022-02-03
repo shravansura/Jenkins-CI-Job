@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.232.15.143:9000/</sonar.host.url>
+		<sonar.host.url>http://3.109.3.158:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>MPMT Technologies Nexus Repository</name>
-	      <url>http://35.154.199.242:8081/repository/maven-releases/</url>
+	      <url>http://15.207.254.64:8081/repository/Maven1-releas/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>MPMT Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.154.199.242:8081/repository/Maven1-releas/</url>
+	      <url>http://15.207.254.64:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
