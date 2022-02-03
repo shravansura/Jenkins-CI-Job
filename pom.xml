@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>MPMT Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.207.254.64:8081/repository/maven-snapshots/</url>
+	      <url>http://15.207.254.64:8081/repository/Maven1-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
