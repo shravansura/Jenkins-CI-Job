@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>MPMT Technologies Nexus Repository</name>
-	      <url>http://65.2.69.253:8081/repository/ci-cd-project-relesae/</url>
+	      <url>http://3.111.37.154:8081/repository/project-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>MPMT Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.69.253:8081/repository/ci-cd-project-snapshot/</url>
+	      <url>http://3.111.37.154:8081/repository/project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
