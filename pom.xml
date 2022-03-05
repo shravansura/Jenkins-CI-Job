@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>MPMT Technologies Nexus Repository</name>
-	      <url>http://3.111.37.154:8081/repository/project-release/</url>
+	      <url>http://3.111.42.95:8081/repository/pipeline-poject-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>MPMT Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.111.37.154:8081/repository/project-snapshot/</url>
+	      <url>http://3.111.42.95:8081/repository/pipeline-project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
